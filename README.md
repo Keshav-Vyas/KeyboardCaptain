@@ -24,7 +24,7 @@ Install essential_generators Library
 
 ```
 
-Run the code
+Run the Program
 
 ```bash
   python KeyBoard-Captain.py
